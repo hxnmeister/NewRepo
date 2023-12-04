@@ -1,0 +1,6 @@
+Name: Sample Name 1
+Age: 22 years
+Expierence: 2 years
+City: Sumy
+About: fdal;kgjhdflkakl;jfadgadl;gfglkadgjhalfdkjdajgafd
+Salary: 300$
